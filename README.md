@@ -1,3 +1,5 @@
+Reactを生業としたい、、
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1f10210386&theme=react)
 
 <p align="left"> 
