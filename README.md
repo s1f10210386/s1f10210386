@@ -1,12 +1,14 @@
 ## GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1f10210386&theme=github_dark)
-
 <p align="left">
-  <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1f10210386&theme=github_dark" />
-  <img alt="Most Used Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s1f10210386&theme=github_dark" />
+  <img alt="Profile Details" width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1f10210386&theme=github_dark" />
 </p>
 
-![Top Languages](https://github-readme-stats-i53f.vercel.app/api/top-langs/?username=s1f10210386&layout=compact&theme=radical)
+<p align="left">
+  <img alt="Stats" width="345" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1f10210386&theme=github_dark" />
+  <img alt="Most Used Languages" width="345" src="https://github-readme-stats-i53f.vercel.app/api/top-langs/?username=s1f10210386&layout=compact&theme=radical" />
+</p>
 
-![Streak Stats](https://streak-stats.demolab.com/?user=s1f10210386&theme=radical)
+<p align="left">
+  <img alt="Streak Stats" width="700" src="https://streak-stats.demolab.com/?user=s1f10210386&theme=radical" />
+</p>
