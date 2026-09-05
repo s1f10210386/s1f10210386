@@ -5,10 +5,10 @@
 </p>
 
 <p align="left">
-  <img alt="Stats" width="345" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1f10210386&theme=nord_dark" />
-  <img alt="Most Used Languages" width="345" src="https://github-readme-stats-i53f.vercel.app/api/top-langs/?username=s1f10210386&layout=compact&theme=nord" />
+  <img alt="Stats" width="345" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1f10210386&theme=nord_dark" />
+  <img alt="Most Used Languages" width="345" height="200" src="https://github-readme-stats-i53f.vercel.app/api/top-langs/?username=s1f10210386&layout=compact&theme=nord" />
 </p>
 
 <p align="left">
-  <img alt="Streak Stats" width="495" src="https://streak-stats.demolab.com/?user=s1f10210386&theme=nord" />
+  <img alt="Streak Stats" width="700" height="195" src="https://streak-stats.demolab.com/?user=s1f10210386&theme=nord" />
 </p>
