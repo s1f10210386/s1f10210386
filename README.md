@@ -1,6 +1,8 @@
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-i53f.vercel.app/api?username=s1f10210386&show_icons=true&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1f10210386&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1f10210386&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats-i53f.vercel.app/api/top-langs/?username=s1f10210386&layout=compact&theme=radical)
 
