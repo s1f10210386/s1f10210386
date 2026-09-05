@@ -10,5 +10,5 @@
 </p>
 
 <p align="left">
-  <img alt="Streak Stats" width="495" src="https://streak-stats.demolab.com/?user=s1f10210386&theme=radical" />
+  <img alt="Streak Stats" width="495" src="https://streak-stats.demolab.com/?user=s1f10210386&theme=nord" />
 </p>
